@@ -1,16 +1,29 @@
-### Hi there 👋
+<div>
+    <a target='_blank' href="https://linkedin.com/in/danielheart">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
-<!--
-**SoloDv/SoloDv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ola mundo 👋
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo Flavio Eduardo. Moro em Minas Gerais e sou um grande fã da tecnologia da Informação.
+
+No meu tempo livre gosto de estudar sobre SI (Segurança da Informação), encontrar vulnerabilidades em aplicações web, brechas de segurança em aparelhos e assistir a eventos como Black Hat, DefCon, etc...
+
+Atualmente estou 100% focado no Desenvolvimento Web com PHP e venho aprendendo Laravel. Estudo todos os dias e tento me manter sempre produtivo.  
+
+## Informações
+
+* **Nome**: Flavio Eduardo
+* **Idade**: 18
+* **Cidade**: Tupaciguara - MG
+* **Skills**: PHP - JavaScript - JQuery - HTML/CSS - MySQL - Linux - English
+
+## Curiosidades sobre mim
+
+* Aprendi Inglês assistindo séries e atualmente estudo Japonês.
+* Meu primeiro contato com tecnologia foi ao assistir o primeiro episodio da série Mr.Robot, depois daquele episodio fui correndo pesquisar tudo o que Elliot (protagonista da série) usava e estudava, então conheci a linguagem **Python**, me esforcei para aprender e então comecei a criar pequenos sistemas rodados no próprio terminal, 1 ano depois comprei um curso onde aprendi desenvolvimento web com PHP e desde então me dedico 100% a esta linguagem.
+* Pratico mais de 3 horas de exercícios físicos por dia.
+* Gosto de resolver problemas.
