@@ -15,7 +15,7 @@
 
 ## About me
 
-My name is Flavio. I'm a big fan of IT.
+I'm a big fan of IT.
 
 In my spare time I like to study SI (Information Security), find vulnerabilities in web applications, security holes in devices and attend events like Black Hat, DefCon, etc...
 
