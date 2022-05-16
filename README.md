@@ -11,26 +11,20 @@
 
 </div>
 
-### Ola mundo 👋
+### Hello World 👋
 
-## Sobre mim
+## About me
 
-Me chamo Flavio Eduardo. Moro em Minas Gerais e sou um grande fã da tecnologia da Informação.
+My name is Flavio. I'm a big fan of IT.
 
-No meu tempo livre gosto de estudar sobre SI (Segurança da Informação), encontrar vulnerabilidades em aplicações web, brechas de segurança em aparelhos e assistir a eventos como Black Hat, DefCon, etc...
+In my spare time I like to study SI (Information Security), find vulnerabilities in web applications, security holes in devices and attend events like Black Hat, DefCon, etc...
 
-Atualmente estou 100% focado no Desenvolvimento Web com PHP e venho aprendendo Laravel. Estudo todos os dias e tento me manter sempre produtivo.  
+I'm currently 100% focused on Web Development with PHP and I've been learning Laravel as my main framework. I study and try to stay productive all/every day. 
 
 ## Informações
 
-* **Nome**: Flavio Eduardo
-* **Idade**: 18
-* **Cidade**: Tupaciguara - MG
+* **Name**: Flavio Eduardo
+* **Age**: 18
 * **Skills**: PHP - JavaScript - JQuery - HTML/CSS - MySQL - Linux - English
 
-## Curiosidades sobre mim
-
-* Aprendi Inglês assistindo séries e atualmente estudo Japonês.
-* Meu primeiro contato com tecnologia foi ao assistir o primeiro episodio da série Mr.Robot, depois daquele episodio fui correndo pesquisar tudo o que Elliot (protagonista da série) usava e estudava, então conheci a linguagem **Python**, me esforcei para aprender e então comecei a criar pequenos sistemas rodados no próprio terminal, 1 ano depois comprei um curso onde aprendi desenvolvimento web com PHP e desde então me dedico 100% a esta linguagem.
-* Pratico mais de 3 horas de exercícios físicos por dia.
-* Gosto de resolver problemas.
+## Keep Coding
